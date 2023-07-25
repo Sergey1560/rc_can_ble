@@ -4,7 +4,7 @@ GPS приемник и CAN адаптер для работы с [RaceChrono](h
 
 В качестве управляющего МК использован NRF52840. Для упрощения сборки используется готовый модуль [Ebyte E73-2G4M08S1C](https://aliexpress.ru/item/1005004834868792.html) ([datasheet](./doc/S1C_Usermanual_v1.9.pdf))
 
-В качестве GPS приемника используется [Ublox M9N](https://www.u-blox.com/en/product/neo-m9n-module) с частотой обновления 25Ghz.
+В качестве GPS приемника используется [Ublox M9N](https://www.u-blox.com/en/product/neo-m9n-module) с частотой обновления 25Hz.
 
 CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf) и транссивере SN65HVD230. Для упрощения покупки mcp2515 снята с [готового модуля](https://aliexpress.ru/item/32817132818.html), с которого так же был снят кварц и конденсаторы кварца.
 
