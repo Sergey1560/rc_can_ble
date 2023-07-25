@@ -31,11 +31,11 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |D4    |1|1N4148|Diode_SMD:D_SOD-323| |
 |D18   |1|BZT52C16S|Diode_SMD:D_SOD-323| |
 |D19   |1|STPS2L25|Diode_SMD:D_SMB"| |
-|J1|1|Conn_01x04|Connector_JST:JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal| |
-|J2|1|Conn_Coaxial_Power|Connector_Coaxial:SMA_Amphenol_901-144_Vertical| |
-|J3|1|SWD|Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD| |
+|J1|1|Conn_01x04|JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal| |
+|J2|1|Conn_Coaxial_Power|SMA_Amphenol_901-144_Vertical| |
+|J3|1|SWD|PinHeader_2x05_P1.27mm_Vertical_SMD| |
 |L1|1|8.2uH|power:Inductor8.2| |
-|L2|1|27nH|Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder| |
+|L2|1|27nH|Inductor_SMD:L_0805_2012| |
 |Q5|1|AO3401A|Package_TO_SOT_SMD:SOT-23| |
 |R1, R2|2|1K|Resistor_SMD:R_0805_2012Metric| |
 |R3|1|120|Resistor_SMD:R_0603_1608Metric| |
@@ -45,8 +45,8 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |R29|1|60.4K|Resistor_SMD:R_0603_1608Metric| |
 |R40|1|10|Resistor_SMD:R_1206_3216Metric| |
 |U1|1|E73-2G4M08S1C-52840|E73-2G4M08S1C-52840| |
-|U2|1|MCP2515-xSO|Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm|Stand-Alone CAN Controller with SPI Interface<br>Снят с модуля CAN|
-|U3|1|ST1S14PHR_MY|Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm| |
+|U2|1|MCP2515-xSO|Package_SO:SOIC-18W|Stand-Alone CAN Controller with SPI Interface<br>Снят с модуля CAN|
+|U3|1|ST1S14PHR_MY|Package_SO:SOIC-8-1EP| |
 |U4|1|NCP3335|Package_SO:OnSemi_Micro8| |
 |U5|1|SN65HVD230|Package_SO:SOIC-8_3.9x4.9mm_P1.27mm|CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities|
 |U17|1|NEO-9M|ublox:NEO-M8N|Ublox M9N|
