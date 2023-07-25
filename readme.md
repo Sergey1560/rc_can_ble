@@ -26,3 +26,8 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |C11, C20, C40|3|0.01uF|Capacitor_SMD:C_0603_1608Metric| |
 |C15|1|1.6pF|Capacitor_SMD:C_0402_1005Metric| |
 |C16, C17|2|47uF|Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder| |
+|D1, D2|2|LED_Small|LED_SMD:LED_1206_3216Metric| |
+|D3    |1|NUP2105L|Package_TO_SOT_SMD:SOT-23|Dual Line CAN Bus Protector, 24Vrwm|
+|D4    |1|1N4148|Diode_SMD:D_SOD-323| |
+|D18   |1|BZT52C16S|Diode_SMD:D_SOD-323| |
+|D19   |1|STPS2L25|Diode_SMD:D_SMB"| |
