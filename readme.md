@@ -22,10 +22,10 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |C2, C12     |2|10uF|Capacitor_SMD:C_0805_2012Metric| | 
 |C3, C4      |2|C_Small|Capacitor_SMD:C_0603_1608Metric|Сняты с модуля CAN|
 |C5, C6, C13, C14, C49|5|0.1uF|Capacitor_SMD:C_0805_2012Metric| |
-|C7|1|1F|Capacitor_THT:CP_Radial_D8.0mm_P3.50mm|Используется как источник резервного питания GPS модуля|
+|C7|1|1F|Capacitor_THT:CP_Radial D8.0mm_P3.50mm|Используется как источник резервного питания GPS модуля|
 |C11, C20, C40|3|0.01uF|Capacitor_SMD:C_0603_1608Metric| |
 |C15|1|1.6pF|Capacitor_SMD:C_0402_1005Metric| |
-|C16, C17|2|47uF|Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder| |
+|C16, C17|2|47uF|Capacitor_Tantalum SMD:CP_EIA-7343-31_Kemet-D| |
 |D1, D2|  2|LED_Small|LED_SMD:LED_1206_3216Metric| |
 |D3    |1|NUP2105L|Package_TO_SOT_SMD:SOT-23|Dual Line CAN Bus Protector, 24Vrwm|
 |D4    |1|1N4148|Diode_SMD:D_SOD-323| |
@@ -48,6 +48,6 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |U2|1|MCP2515-xSO|Package_SO:SOIC-18W|Stand-Alone CAN Controller with SPI Interface<br>Снят с модуля CAN|
 |U3|1|ST1S14PHR_MY|Package_SO:SOIC-8-1EP| |
 |U4|1|NCP3335|Package_SO:OnSemi_Micro8| |
-|U5|1|SN65HVD230|Package_SO:SOIC-8_3.9x4.9mm_P1.27mm|CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities|
+|U5|1|SN65HVD230|Package_SO:SOIC-8|CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities|
 |U17|1|NEO-9M|ublox:NEO-M8N|Ublox M9N|
 |Y1|1|8Mhz|Crystal:Crystal_HC49-4H_Vertical|Снят с модуля CAN|
