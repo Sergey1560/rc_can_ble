@@ -31,8 +31,8 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |D4    |1|1N4148|Diode_SMD:D_SOD-323| |
 |D18   |1|BZT52C16S|Diode_SMD:D_SOD-323| |
 |D19   |1|STPS2L25|Diode_SMD:D_SMB"| |
-|J1|1|Conn_01x04|JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal| |
-|J2|1|Conn_Coaxial_Power|SMA_Amphenol_901-144_Vertical| |
+|J1|1|Conn 01x04|JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal| |
+|J2|1|Coaxial Power|SMA_Amphenol_901-144_Vertical| |
 |J3|1|SWD|PinHeader_2x05_P1.27mm_Vertical_SMD| |
 |L1|1|8.2uH|power:Inductor8.2| |
 |L2|1|27nH|Inductor_SMD:L_0805_2012| |
@@ -44,7 +44,7 @@ CAN реализован на [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller
 |R28|1|187K|Resistor_SMD:R_0603_1608Metric| |
 |R29|1|60.4K|Resistor_SMD:R_0603_1608Metric| |
 |R40|1|10|Resistor_SMD:R_1206_3216Metric| |
-|U1|1|E73-2G4M08S1C-52840|E73-2G4M08S1C-52840| |
+|U1|1|E73-2G4M08S1C|E73-2G4M08S1C-52840| |
 |U2|1|MCP2515-xSO|Package_SO:SOIC-18W|Stand-Alone CAN Controller with SPI Interface<br>Снят с модуля CAN|
 |U3|1|ST1S14PHR_MY|Package_SO:SOIC-8-1EP| |
 |U4|1|NCP3335|Package_SO:OnSemi_Micro8| |
