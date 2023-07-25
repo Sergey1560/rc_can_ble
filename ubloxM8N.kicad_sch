@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "DASH v2")
-    (date "2022-08-03")
-    (rev "${GIT_VERSION}")
+    (title "RC CAN and GPS BLE")
+    (date "2023-07-25")
+    (comment 1 "Ublox GPS Recevier")
   )
 
   (lib_symbols

@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RC CAN and GPS BLE")
+    (date "2023-07-25")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_Coaxial_Power" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -5.08 -1.27 90)
