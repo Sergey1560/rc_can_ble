@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "E73-2G4M08S1C-52840")(type "KiCad")(uri "${KIPRJMOD}/libs/E73-2G4M08S1C-52840.kicad_sym")(options "")(descr ""))
   (lib (name "dc-dc")(type "KiCad")(uri "${KIPRJMOD}/libs/dc-dc.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/libs/logo.kicad_sym")(options "")(descr ""))
 )

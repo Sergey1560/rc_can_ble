@@ -1,7 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "E73")(type "KiCad")(uri "${KIPRJMOD}/libs/E73.pretty")(options "")(descr ""))
-  (lib (name "mini360")(type "KiCad")(uri "${KIPRJMOD}/libs/mini360.pretty")(options "")(descr ""))
   (lib (name "ublox")(type "KiCad")(uri "${KIPRJMOD}/libs/ublox.pretty")(options "")(descr ""))
   (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/libs/power.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/libs/logo.pretty")(options "")(descr ""))
 )
