@@ -1,5 +1,7 @@
 # RaceChrono BLE CAN и GPS адаптер
 
+[English version](./readme_en.md)
+
 GPS приемник и CAN адаптер для работы с [RaceChrono](https://racechrono.com/) через BLE ([подробности протокола](https://github.com/aollin/racechrono-ble-diy-device)). 
 
 В качестве управляющего МК использован NRF52840. Для упрощения сборки используется готовый модуль [Ebyte E73-2G4M08S1C](https://aliexpress.ru/item/1005004834868792.html) ([datasheet](./doc/S1C_Usermanual_v1.9.pdf))
