@@ -6,7 +6,7 @@ NRF52840 is used as a control MCU. To simplify the assembly, a ready-made module
 
 The GPS receiver is [Ublox M9N](https://www.u-blox.com/en/product/neo-m9n-module) with a refresh rate of 25Hz.
 
-CAN is implemented on [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf) and SN65HVD230 transceiver. To simplify the purchase, mcp2515 was was taken from the [[ready-made module](https://aliexpress.com/item/32817132818.html), from which the crystal and crystal capacitors were also taken.
+CAN is implemented on [MCP2515](./doc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf) and SN65HVD230 transceiver. To simplify the purchase, mcp2515 was taken from the [[ready-made module](https://aliexpress.com/item/32817132818.html), from which the crystal and crystal capacitors were also taken.
 
 ![device render](./img/nrf52840_dev.png)
 
